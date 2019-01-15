@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to bottom, #18510D 50%, #790500 50%) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.question-window {
+    background-color: #FEEB8D;
+    margin-top: 150px;
+}
+
+.question-font {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
